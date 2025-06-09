@@ -27,3 +27,11 @@ Simulación de decisiones: Utiliza un árbol binario para modelar las elecciones
 Resultados dinámicos: Cada simulación ofrece una trayectoria y un desenlace únicos.
 Historial de decisiones: Registra y muestra el camino completo de decisiones tomadas.
 Menú del día: Asigna un menú ficticio basado en el resultado final de la simulación, reflejando las diferentes situaciones (desde "solidaridad" hasta "desastre total").
+
+
+
+
+https://youtu.be/ZvxxTIeui0Y
+
+
+
