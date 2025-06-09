@@ -1,8 +1,16 @@
 Título del proyecto: el desafío de los gutierrez
+
+
+
 Alumnos:
 Aldo Manfredi (manfredialdo.1979@gmail.com)
 Bruno Pighin (brunopighin@hotmail.com)
+
+
 Materia: Programación I
+
+
+
 Profesor: AUS Bruselario, Sebastián
 
 
